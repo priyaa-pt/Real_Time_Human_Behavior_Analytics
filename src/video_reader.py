@@ -2,7 +2,7 @@ import cv2
 import os
 
 # -----------------------------
-# Video path (DO NOT hardcode absolute paths)
+# Video path 
 # -----------------------------
 VIDEO_PATH = os.path.join(
     "data",
